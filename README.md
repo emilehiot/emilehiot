@@ -1,20 +1,18 @@
-# 👋 Salut !
+# 👋 Hey !
 
-## 👨‍💻 Passionné de Développement Web
+- En pleine reconversion professionnelle, actuellement en formation de Développeur, Intégrateur Web à la [3W Academy](https://3wacademy.fr/).
+- Passionné par le front-end et le potentiel du design créatif, je me tiens informé des dernières tendances et innovations dans ces domaines.
 
-- 🌱 En pleine reconversion professionnelle, actuellement en formation à la [3W Academy](https://3wacademy.fr/).
+## 🛠️ Mes Compétences
 
-- 💻 Passionné par le front-end et le potentiel du design créatif, je me tiens informé des dernières tendances et innovations dans ces domaines.
+- HTML, CSS, JavaScript.
+- Pratique continue sur mon temps libre avec les défis proposés par [Frontend Mentor](https://www.frontendmentor.io/challenges).
 
-- 🚀 Actuellement à la recherche d'un contrat d'apprentissage en développement web.
+## 🚀 À la Recherche d'Apprentissage
 
-## 🛠 Mes Outils et Projets
+- Actuellement à la recherche d'opportunités d'apprentissage en développement web.
 
-- 🔨 Compétences en HTML, CSS, et JavaScript.
-- 📚 Amélioration continue avec les défis proposés par [Frontend Mentor](https://www.frontendmentor.io/challenges).
-
-
-## 📫 Contactez-Moi
+## 📫 Contact
 
 Intéressé par un échange, une opportunité d'apprentissage ou juste pour dire bonjour ? Contactez-moi !
 
