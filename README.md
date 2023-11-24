@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋 Salut !
 
-<!--
-**emilehiot/emilehiot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Passionné de Développement Web
 
-Here are some ideas to get you started:
+- 🌱 En pleine reconversion professionnelle, actuellement en formation à la [3W Academy](https://3wacademy.fr/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionné par le front-end et le potentiel du design créatif, je me tiens informé des dernières tendances et innovations dans ces domaines.
+
+- 🚀 Actuellement à la recherche d'un contrat d'apprentissage en développement web.
+
+## 🛠 Mes Outils et Projets
+
+- 🔨 Compétences en HTML, CSS, et JavaScript.
+- 📚 Amélioration continue avec les défis proposés par [Frontend Mentor](https://www.frontendmentor.io/challenges).
+
+
+## 📫 Contactez-Moi
+
+Intéressé par un échange, une opportunité d'apprentissage ou juste pour dire bonjour ? Contactez-moi !
+
+- [Portfolio](https://emilehiot.com/)
+- [LinkedIn](https://www.linkedin.com/in/emilehiot)
