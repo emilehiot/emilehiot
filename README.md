@@ -1,16 +1,33 @@
-## Hi there 👋
+![Bannière Noël](https://img.freepik.com/premium-psd/merry-christmas-banner-template-with-santa-tree-house-snowflakes-decorated-background_1106619-4297.jpg?semt=ais_hybrid&w=740&q=80)
 
-<!--
-**emilehiot/emilehiot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 🎄 Joyeux Noël ! 🎄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Bienvenue sur mon profil GitHub !** ❄️✨
+
+Je suis **Émile**, un développeur junior.  
+En ce moment, mon profil est en mode fêtes pour partager un peu de magie de Noël avec toi !
+
+🎅
+
+</div>
+
+```
+🌟
+🎄
+🎄🎄
+🎄🎄🎄
+🎄🎄🎄🎄
+🎄🎄🎄🎄🎄
+🎄🎄🎄🎄🎄🎄
+🎄🎄🎄🎄🎄🎄🎄
+🎁🎁
+🎁🎁🎁🎁
+```
+
+<div align="center">
+
+**Passe de merveilleuses fêtes de fin d'année !** ❤️🔔❄️
+
+</div>
