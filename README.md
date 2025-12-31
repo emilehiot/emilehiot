@@ -1,16 +1,13 @@
 <div align="center">
 
-![Bannière Noël](https://img.freepik.com/premium-psd/merry-christmas-banner-template-with-santa-tree-house-snowflakes-decorated-background_1106619-4297.jpg?semt=ais_hybrid&w=740&q=80)
-
-
-# 🎄 Joyeux Noël ! 🎄
-
-**Bienvenue sur mon profil GitHub !** ❄️✨
+**Bienvenue sur mon profil GitHub !**
 
 Je suis **Émile**, un développeur junior.  
-En ce moment, mon profil est en mode fêtes pour partager un peu de magie de Noël avec toi !
+En ce moment, mes repos sont surtout des exercices et des tests, 
+rien de très impressionnant, c'est juste pour suivre ma progression jour après jour.
 
-🎅
+**Merci d'être passé·e par ici !**  
+On se retrouve très vite avec de vrais projets sympas.
 
 **Passe de merveilleuses fêtes de fin d'année !** ❤️🔔❄️
 
